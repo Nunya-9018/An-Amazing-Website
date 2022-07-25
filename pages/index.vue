@@ -1,11 +1,12 @@
 <template>
-  <HomeContent/>
+ <HomeContent/>
 </template>
 
 <script>
-import HomeContent from '../components/Home-content.vue';
+import HomeContent from '~/components/Home-content.vue';
+
 export default {
     name: "IndexPage",
-    components: { HomeContent }
+    components: { HomeContent}
 }
 </script>
