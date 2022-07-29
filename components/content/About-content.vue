@@ -5,8 +5,6 @@
             <h1 class="text-xl underline">Hello, I'm {{ info.name }}</h1>
             <p class="break-words">{{ info.bio }}</p>
        </div>
-       <div class="max-h-4/6 w-2/4 container border-neutral-600 border-2 rounded-sm p-2">
-       </div>
     </div>
 </template>
 
